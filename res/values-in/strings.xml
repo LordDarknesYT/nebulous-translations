@@ -1228,8 +1228,8 @@ Perintah:
         <item>"Relatif"</item>
         <item>"Seret Menuju"</item>
         <item>"Membawa"</item>
-        <item>"Sentuh dan Pergi"</item>
-        <item>"Memiringkan"</item>
+        <item>"SENTUH DAN PERGI"</item>
+        <item>"MEMIRINGKAN"</item>
     </string-array>
 
     <string-array name="button_modes">
