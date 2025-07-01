@@ -1090,11 +1090,11 @@
     <string name="Conquest">Penaklukan</string>
     <string name="Finish_the_last_mission_in_the_campaign_">Selesaikan misi terakhir di mode kampanye.</string>
     <string name="Collected_">Dikumpulkan:</string>
-    <string name="Collisions_">Tabrakan:</string>
-    <string name="Absorbed_">Diserap:</string>
+    <string name="Collisions_">TABRAKAN:</string>
+    <string name="Absorbed_">DISERAP:</string>
     <string name="team_warning">Bekerja sama dengan pemain yang bukan anggota tim Anda akan dikenakan DILARANG!</string>
     <string name="Search_Filter">Penyaring Pencarian</string>
-    <string name="Received_">Menerima:</string>
+    <string name="Received_">MENERIMA:</string>
     <string name="Opponent_Rating_Limit_">Batas Peringkat Lawan:</string>
     <string name="TOGGLE_FAVORITE">TOMBOL FAVORIT</string>
     <string name="Favorited">Favorit</string>
